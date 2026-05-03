@@ -1,6 +1,6 @@
 import type { ElementAnimations } from "@/model/decorations/animations";
 import { resolveAnimationPathValueAtTime } from "@/animation";
-import type { Transform } from "./index";
+import type { Transform } from "@/model/rendering";
 
 export function resolveTransformAtTime({
 	baseTransform,

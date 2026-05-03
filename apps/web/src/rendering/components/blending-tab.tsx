@@ -19,7 +19,7 @@ import {
 	SelectTrigger,
 	SelectValue,
 } from "@/components/ui/select";
-import type { BlendMode } from "@/rendering";
+import type { BlendMode } from "@/model/rendering";
 import type { ElementType } from "@/model";
 import type { ElementAnimations } from "@/model/decorations/animations";
 import { HugeiconsIcon } from "@hugeicons/react";

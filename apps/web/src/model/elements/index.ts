@@ -5,7 +5,7 @@ import type { ImageElement } from "./image";
 import type { StickerElement } from "./sticker";
 import type { TextElement } from "./text";
 import type { VideoElement } from "./video";
-import type { Transform } from "@/rendering";
+import type { Transform } from "@/model/rendering";
 
 export * from "./audio";
 export * from "./base";

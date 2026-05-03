@@ -23,7 +23,7 @@ import {
 	setChannel,
 } from "@/animation";
 import type { ElementAnimations } from "@/model/decorations/animations";
-import type { Transform } from "@/rendering";
+import type { Transform } from "@/model/rendering";
 import { resolveTransformAtTime } from "@/rendering/animation-values";
 import type { ElementRef, SceneTracks, TimelineElement, VisualElement } from "@/model";
 

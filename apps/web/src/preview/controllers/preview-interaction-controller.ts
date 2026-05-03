@@ -18,7 +18,7 @@ import {
 	type PreviewSnapLine,
 } from "@/preview/preview-snap";
 import type { TCanvasSize } from "@/project/types";
-import type { Transform } from "@/rendering";
+import type { Transform } from "@/model/rendering";
 import { isVisualElement } from "@/timeline/element-utils";
 import type { ElementRef, SceneTracks, TextElement, TimelineElement, TimelineTrack, VisualElement } from "@/model";
 

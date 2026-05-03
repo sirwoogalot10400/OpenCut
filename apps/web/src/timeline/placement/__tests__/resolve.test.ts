@@ -13,7 +13,7 @@ import {
 	type VideoElement,
 	type VideoTrack,
 } from "@/model";
-import type { Transform } from "@/rendering";
+import type { Transform } from "@/model/rendering";
 import { resolveTrackPlacement } from "@/timeline/placement";
 
 function buildTransform(): Transform {

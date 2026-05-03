@@ -1,4 +1,4 @@
-import type { BlendMode } from "@/rendering";
+import type { BlendMode } from "@/model/rendering";
 import type { EffectPass } from "@/model/decorations/effect";
 
 export type FrameDescriptor = {
